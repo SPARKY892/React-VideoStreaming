@@ -9,6 +9,17 @@
       "title": "Other Stream",
       "description": "Here's some stream",
       "id": 2
+    },
+    {
+      "title": "My Stream",
+      "description": "I created this one edited",
+      "userId": "106917965035155817286",
+      "id": 3
+    },
+    {
+      "title": "Component reuse",
+      "description": "Reuse in action! edited",
+      "id": 4
     }
   ]
 }
